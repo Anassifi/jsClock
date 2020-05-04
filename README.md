@@ -1,3 +1,4 @@
+## GitHub Pages : https://anassifi.github.io/jsClock/
 # C3_TRAINING_DOM
 ## Contexte
 Dans ce projet, vous allez utiliser ce que vous avez appris et le mettre en pratique dans une démo, en utilisant JavaScript et CSS pour créer une `horloge analogique` fonctionnelle. 
